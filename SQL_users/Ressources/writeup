@@ -1,0 +1,6 @@
+5ff9d0165b4f92b14994e5c685cdce28
+
+go to 'https://md5.gromweb.com/?md5=5ff9d0165b4f92b14994e5c685cdce28'
+-> 'FortyTwo'
+
+`echo -n 'fortytwo' | sha256sum` to get the flag

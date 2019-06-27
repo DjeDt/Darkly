@@ -1,0 +1,7 @@
+go to login page
+
+type as follow to get the flag
+user : 'admin'
+pass : 'shadow'
+
+or 'http://192.168.43.34/index.php?page=signin&username=admin&password=shadow&Login=shadow' | grep "flag"

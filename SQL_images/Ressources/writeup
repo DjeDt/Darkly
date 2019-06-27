@@ -1,0 +1,7 @@
+
+STR="1928e8083cf461a51303633093573c46"
+
+go to 'https://md5.gromweb.com/?md5=1928e8083cf461a51303633093573c46'
+-> albatroz
+
+echo -n 'albatroz'| sha256sum to get the flag

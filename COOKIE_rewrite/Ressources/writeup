@@ -1,0 +1,4 @@
+change the admin cookie from 'false' to hashed 'md5' -> 'true'
+then go to any page to get the flag
+
+'b326b5062b2f0e69046810717534cb09' -> true
